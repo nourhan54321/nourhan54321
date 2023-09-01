@@ -1,7 +1,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Yousef Dergham's profile!
+  Welcome to Nourhan Reda's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -27,5 +27,5 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning%20-05122A?style=flat&logo=Machine_Learning)&nbsp;
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning%20-05122A?style=flat&logo=Deep_learning)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google_Colab%20-05122A?style=flat&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP%20-05122A?style=flat&logo=python)&nbsp;
+![Google Colab](https://img.shields.io/badge/-Google_Colab%20-05122A?style=flat&logo=Google_Colab)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP%20-05122A?style=flat&logo=PHP)&nbsp;
