@@ -23,10 +23,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Machine Learning]
-![Deep Learning]
-![Google Colab]
-![PHP]
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning%20-05122A?style=flat&logo=Machine_Learning)&nbsp;
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning%20-05122A?style=flat&logo=Deep_learning)&nbsp;
+![Google Colab](https://img.shields.io/badge/-Google_Colab%20-05122A?style=flat&logo=python)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP%20-05122A?style=flat&logo=python)&nbsp;
