@@ -16,7 +16,7 @@
 - 💬 Ask me about my experience with python ,php ,machine learning
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/nourhan-reda-756b23225/" target="_blank"><img src="https://img.shields.io/badge/-Nourhan%20DReda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nourhan-reda-756b23225/" target="_blank"><img src="https://img.shields.io/badge/-Nourhan%20Reda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
