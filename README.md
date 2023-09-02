@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="[https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)">
 
 <h3 align="center">
   Welcome to Nourhan Reda's profile!
@@ -13,10 +13,9 @@
 - 🏢 I'm a python developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with python ,php ,machine learning
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/nourhan-reda-756b23225/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>Nourhan Reda</a>
+<a href="https://www.linkedin.com/in/nourhan-reda-756b23225/" target="_blank"><img src="https://img.shields.io/badge/-Nourhan%20DReda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
